@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 https://homework10715134.github.io/nttu/20190918SC02.html
 <html>
 <head>
